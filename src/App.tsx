@@ -26,7 +26,7 @@ export default function App() {
       </div>
 
       <header className="fixed w-full glass border-b border-white/5 z-50 p-6 flex justify-between items-center backdrop-blur-md">
-        <h1 className="font-bold text-2xl tracking-tighter bg-gradient-to-r from-indigo-400 to-pink-500 bg-clip-text text-transparent">LPModern</h1>
+        <h1 className="font-bold text-2xl tracking-tighter bg-gradient-to-r from-indigo-400 to-pink-500 bg-clip-text text-transparent">CreativeLab</h1>
         <nav className="flex gap-6 text-sm font-medium">
           <a href="#hero" className="text-white/70 hover:text-white transition">Início</a>
           <a href="#features" className="text-white/70 hover:text-white transition">Recursos</a>
