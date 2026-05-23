@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page Moderna",
+  "description": "Uma landing page moderna, interativa e responsiva com animações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
